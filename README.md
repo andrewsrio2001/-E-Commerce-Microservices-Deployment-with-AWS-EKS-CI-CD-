@@ -14,7 +14,7 @@ This project demonstrates how to deploy an **E-commerce microservices applicatio
 - **Orchestration:** Kubernetes on AWS EKS
 - **CI/CD:** Jenkins or GitLab CI (with Docker, Kubernetes, Helm)
 - **Database:** Amazon RDS (MySQL/PostgreSQL)
-- **Monitoring:** Prometheus & Grafana
+- **Monitoring:** Prometheus & Grafana   
 
 ---
 
