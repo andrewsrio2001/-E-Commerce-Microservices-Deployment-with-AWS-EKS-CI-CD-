@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how to deploy an **E-commerce microservices application** on **AWS Elastic Kubernetes Service (EKS)** using Docker containers. Additionally, we will automate the deployment using a **CI/CD pipeline** (Jenkins/GitLab CI) and integrate **Amazon RDS** for database management. Monitoring is implemented using **Prometheus and Grafana**, and the infrastructure is provisioned using **Terraform**.
+This project demonstrates how to deploy an **E-commerce microservices application** on **AWS Elastic Kubernetes Service (EKS)** using Docker containers. Additionally, we will automate the deployment using a **CI/CD pipeline** (Jenkins/GitLab CI) and integrate **Amazon RDS** for database management. Monitoring is implemented using **Prometheus and Grafana**, and the infrastructure is provisioned using **Terraform**. 
 
 ## Project Architecture
 
